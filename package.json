@@ -1,0 +1,16 @@
+{
+  "name": "tt-nube",
+  "version": "1.0.0",
+  "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1",
+    "tiktok-live-connector": "^2.5.0"
+  }
+}
